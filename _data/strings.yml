@@ -1,16 +1,18 @@
 app:
-  screenshots: Screenshots
+  screenshots: Captures d'écran
   description: Description
-  featured: Featured in
+  featured: Soutenu par
 
 footer:
-  copyright: Made with ❤️ in Europe 🇪🇺 by <a href="https://www.sandoche.com" target="_blank">Sandoche</a>
+  copyright: Fait avec ❤️ par <a href="https://www.camarm.dev" target="_blank">Armand Camponovo (camarm)</a>
   links:
     - title: Github
-      url: https://github.com/sandoche/Mobile-app-landingpage-template
+      url: https://github.com/camarm-dev/bfc-avantagesjeunes-mobile
       target: _blank
-    - title: Donate
-      url: https://paypal.me/kanbanote
+    - title: Me soutenir
+      url: https://ko-fi.com/camarm
       target: _blank
+    - title: Mockups template (previewed)
+      url: https://previewed.app/template/72700B4B
     - title: Privacy
       url: /privacy

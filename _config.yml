@@ -3,31 +3,28 @@
 # This config file contains the config of your webpages
 # You may also want to update /config/webpack.pwa.js in case you want to generate a Progressive Web App
 
-title: Mobile App Landing Page Template
-email: contact@sandoche.com
-description: Free to use static landing page template to showcase your mobile app
+title: Avantages Jeunes Connect
+email: software@camarm.dev
+description: Application mobile non officielle et Open Source pour la carte Avantages Jeunes !
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mobileapplandingpage.learn.uno" # the base hostname & protocol for your site, e.g. http://example.com
-theme_color: '#efeeff'
-twitter_username: sandochee
-github_username:  sandoche
-author: Sandoche Adittane
+url: "https://ajc.camarm.fr" # the base hostname & protocol for your site, e.g. http://example.com
+theme_color: '#b99c33'
+twitter_username: ""
+github_username:  camarm-dev
+author: Armand Camponovo
 logo: assets/images/large-logo.png
-twitter:
-  username: sandochee
+#twitter:
+#  username: ''
 social:
-  name: Sandoche Adittane
+  name: Armand Camponovo
   links:
-    - https://twitter.com/sandochee
-    - https://www.facebook.com/sandoche
-    - https://www.linkedin.com/in/sandoche
-    - https://plus.google.com/+SandocheADITTANE
-    - https://github.com/sandoche
+    - https://www.camarm.dev
+    - https://github.com/camarm-dev
 
-languages: ["en"]
+languages: ["fr"]
 ampdir: amp
 
-github: https://github.com/sandoche/Mobile-app-landingpage-template
+github: https://github.com/camarm-dev/bfc-avantagesjeunes-mobile
 
 ### Google webmaster tools, Google Analytics, Doorbell and Cookie consent uncomment and put the API key
 #webmaster_verifications:
