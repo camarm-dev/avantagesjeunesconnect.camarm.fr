@@ -9,7 +9,7 @@ description: Application mobile non officielle et Open Source pour la carte Avan
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ajc.camarm.fr" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#b99c33'
-twitter_username: ""
+#twitter_username: ""
 github_username:  camarm-dev
 author: Armand Camponovo
 logo: assets/images/large-logo.png
