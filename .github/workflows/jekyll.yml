@@ -54,7 +54,7 @@ jobs:
       - name: Install dev dependencies
         run: npm install --only=dev
       - name: Build webpack assets
-        run: webpack --env config=prod --progress --profile --color
+        run: npm run build:solo
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
