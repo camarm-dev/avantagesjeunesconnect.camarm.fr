@@ -6,7 +6,8 @@ full_description: "Avantages Jeunes Connect intègre des fonctionnalités avanc�
 <br>- Numériser votre carte; plus besoin de la sortir de votre portefeuille, présentez là au vendeur avec votre téléphone
 <br>- Notez, aimez, partagez et découvrez toujours plus d'avantages !"
 android: https://telegra.ph/Replace-this-link-07-23
-#iOS: https://telegra.ph/Replace-this-link-07-23
+iOS: false
+web: false
 screenshots:
   - image1.jpeg
   - image2.jpeg
