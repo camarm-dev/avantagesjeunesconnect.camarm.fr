@@ -51,6 +51,8 @@ jobs:
           cache: 'npm'
       - name: Install dependencies
         run: npm install
+      - name: Install dev dependencies
+        run: npm install --only=dev
       - name: Build webpack assets
         run: webpack --env config=prod --progress --profile --color
       - name: Setup Pages
