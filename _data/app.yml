@@ -7,7 +7,7 @@ full_description: "Avantages Jeunes Connect intègre des fonctionnalités avanc�
 <br>- Notez, aimez, partagez et découvrez toujours plus d'avantages !
 <br><br>Cet application non officielle est développée par un étudiant et distribuée sous la licence CECILL-2.1. Plus d'informations sur Github (en haut à droite de la page).
 <br>
-[Politique de confidentialité](/privacy) • [Conditions Générales d'Utilisation](/cgu) • [Licence](https://github.com/camarm-dev/bfc-avantagesjeunes-mobile/blob/main/LICENSE)
+<a href=\"/privacy\">Politique de confidentialité</a> • <a href=\"/cgu\">Conditions Générales d'Utilisation</a> • <a href=\"https://github.com/camarm-dev/bfc-avantagesjeunes-mobile/blob/main/LICENSE\" target=\"_blank\">Licence</a>
 "
 android: https://github.com/camarm-dev/bfc-avantagesjeunes-mobile/releases
 iOS: false
