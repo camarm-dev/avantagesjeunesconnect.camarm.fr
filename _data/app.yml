@@ -5,8 +5,11 @@ full_description: "Avantages Jeunes Connect intègre des fonctionnalités avanc�
 <br>- Voir les avantages autour de vous !
 <br>- Numériser votre carte; plus besoin de la sortir de votre portefeuille, présentez là au vendeur avec votre téléphone
 <br>- Notez, aimez, partagez et découvrez toujours plus d'avantages !
-<br><br>Cet application non officielle est développée par un étudiant et distribuée sous la licence CECILL-2.1. Plus d'informations sur Github (en haut à droite de la page)."
-android: https://telegra.ph/Replace-this-link-07-23
+<br><br>Cet application non officielle est développée par un étudiant et distribuée sous la licence CECILL-2.1. Plus d'informations sur Github (en haut à droite de la page).
+<br>
+[Politique de confidentialité](/privacy) • [Conditions Générales d'Utilisation](/cgu) • [Licence](https://github.com/camarm-dev/bfc-avantagesjeunes-mobile/blob/main/LICENSE)
+"
+android: https://github.com/camarm-dev/bfc-avantagesjeunes-mobile/releases
 iOS: false
 web: false
 screenshots:
