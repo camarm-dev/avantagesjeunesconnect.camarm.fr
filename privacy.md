@@ -32,6 +32,9 @@ Les services concernés par cette politique de confidentialité incluent, mais n
 > Utilisée à chaque rechargement en **"one-shot"** pour afficher les avantages autour de vous.
 >
 > Nous récupérons la position, effectuons la requête et n'avons pas accès à cette donnée qui **transite seulement** entre votre appareil et nos serveurs, via le protocole sécurisé HTTPS.
+> Cette donnée n'est pas conservée ensuite. Concernant la possibilité que votre position soit affichée dans **nos logs**, nous nous engageons à ne pas conserver ces logs (qui par ailleurs **ne quittent pas nos serveurs** et sont **uniquement consultable par notre équipe**) en les supprimant régulièrement de fait à ce que ceux-ci ne soient pas conservés plus d'un mois.
+>
+> Vous pouvez désactiver l'utilisation de votre position en retirant l'autorisation depuis les paramètres de votre téléphone. Pour plus d'informations ou de questionnement, merci de vous référer à la section [5. - Informations](#5---informations)
 
 **Données collectées depuis le site web de présentation**:
 
